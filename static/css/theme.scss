@@ -1,0 +1,11 @@
+@forward '~attractions/_variables' with (
+  $main: red,
+  $background: magenta,
+  // $font: "'Open Sans', sans-serif",
+);
+
+// @use '~attractions/_variables';
+
+$background: indigo;
+$foo: cyan;
+$main: blue;
