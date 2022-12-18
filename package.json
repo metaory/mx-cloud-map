@@ -13,13 +13,20 @@
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/adapter-cloudflare": "^1.0.0",
 		"@sveltejs/kit": "^1.0.0",
+		"attractions": "^3.7.0",
 		"eslint": "^8.28.0",
 		"eslint-config-prettier": "^8.5.0",
 		"eslint-plugin-svelte3": "^4.0.0",
+		"postcss": "^8.4.20",
 		"prettier": "^2.8.0",
 		"prettier-plugin-svelte": "^2.8.1",
+		"sass": "^1.57.0",
 		"svelte": "^3.54.0",
+		"svelte-preprocess": "^4.10.7",
 		"vite": "^4.0.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"blobs": "^2.2.1-beta.1"
+	}
 }
