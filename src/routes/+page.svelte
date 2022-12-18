@@ -28,6 +28,11 @@
   console.log('svgString:', svgString) 
 </script>
 
+<svelte:head>
+	<title>CloudMap</title>
+	<meta name="description" content="MX Cloud Map" />
+</svelte:head>
+
 <div class="placeholder"></div>
 
 <FileDropzone accept="image/*" max={3} />
