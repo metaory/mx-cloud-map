@@ -27,6 +27,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"blobs": "^2.2.1-beta.1"
+		"blobs": "^2.2.1-beta.1",
+		"svelvet": "^4.0.3"
 	}
 }
